@@ -22,7 +22,7 @@ Here is the link where You can try the [App](https://github.com/itzthemandaloria
 ## What does Prod20 do? 
 The app contains 3 different Timers which helps us to insinuate a little breaks throughout their work hours. This app has 3 different features:-
 ### Twenty Rule Timer:
-Set a **timer** to remind you to look away every **20 minutes** at an object that is about **20 feet ** away for a full **20 seconds**. It helps you reduce your **eye strain** and prevent **eye dryness**.
+Set a **timer** to remind you to look away every ** 20 minutes** at an object that is about ** 20 feet ** away for a full ** 20 seconds**. It helps you reduce your ** eye strain** and prevent **eye dryness**.
 ### Sedimentary Timer
 **Sedimentary Timer** which reminds a person to **stand up** and **walk** around during long hours. It helps a person maintain their **health** and reduce the chance of having **back pain**.
 ### Pomodoro Timer
